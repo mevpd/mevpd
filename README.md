@@ -19,5 +19,5 @@
 ### Timeline
 * June 27 2023 - [Java Sololearn](https://www.sololearn.com/en/learn/courses/javascript-intermediate)
 * July 07 2023 - [C++ Sololearn](https://www.sololearn.com/en/learn/courses/c-plus-plus-intermediate)
-* July 16 2026 - [IBM Fullstack Dev Mapua](https://www.sololearn.com/en/learn/courses/c-plus-plus-intermediate)
+* July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)
 * July 18 2026 - [Cisco CyberOps IT Step](https://itstep.ph/cybersecurity)
