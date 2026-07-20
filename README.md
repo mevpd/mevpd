@@ -4,4 +4,5 @@ I collect certificates for the joy of it
 I don't need a collaboration/partnership/job
 
 ## Useless Certificates
-* [Java Intermediate](https://api2.sololearn.com/v2/certificates/CC-VVYTTF1W/image/png?t=639197321942505819 "Sololearn")
+* ![java cert](images/java_intermediate.png)
+* ![cpp cert](images/cpp_intermediate.png)
