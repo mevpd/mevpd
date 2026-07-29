@@ -22,9 +22,10 @@ main(){
             <td> <img src="'"$cert"'" alt="'"$cert"'" width="100"/> </td>
         </tr>' >> "$script_path/files/.tmp"
     done
-    grep -B 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | head -n -1
-    cat "$script_path/files/.tmp"
-    grep -A 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | tail -n +2
+    grep -B 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | head -n -1 | tee "$script_path/README.md"
+    tee -a "$script_path/README.md" < "$script_path/files/.tmp"
+    grep -A 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | tail -n +2 | tee -a "$script_path/README.md"
+    pandoc -f gfm "$script_path/README.md" -t html5 -o "$script_path/index.html" --standalone --metadata title="readme"
 }
 
 main "$@" | tee test.md
