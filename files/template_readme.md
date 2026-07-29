@@ -10,22 +10,8 @@
         <th>Link</th>
         <th>Certificate</th>
     </tr>
-    <tr>
-        <td>June 27 2023</td>
-        <td><img src="images/logo/java.svg" alt="java logo" width="40px" height="40px"></td>
-        <td>Java Intermediate</td>
-        <td><a href="https://www.sololearn.com/certificates/CC-VVYTTF1W">Sololearn</a></td>
-        <td> <img src="images/certs/java_intermediate.png" alt="java cert" width="100"/> </td>
-    </tr>
-<!--     <tr>
-        <td> <img src="images/certs/java_intermediate.png" alt="java cert" width="200"/> </td>
-        <td> <img src="images/certs/cpp_intermediate.png" alt="cpp cert" width="200"/> </td>
-        <td> <img src="images/certs/intro_se.png" alt="intro se cert" width="200"/> </td>
-        <td> <img src="images/certs/intro_cloud.png" alt="intro cloud cert" width="200"/> </td>
-        <td> <img src="images/certs/intro_webdev.png" alt="intro web dev" width="200"/> </td>
-        <td> <img src="images/certs/git_github.png" alt="git github" width="200"/> </td>
-    </tr>
- --></table>
+    REPLACE_THIS_WITH_THE_TABLE_DATA
+</table>
 
 ### More Info
 
