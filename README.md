@@ -48,7 +48,7 @@
             <td> <img src="images/certs/git_github.png" alt="images/certs/git_github.png" width="100"/> </td>
         </tr><tr>
             <td>August 10 2026</td>
-            <td><img src="images/log/react.svg" alt="images/log/react.svg" width="40px" height="40px"></td>
+            <td><img src="images/logo/react.svg" alt="images/logo/react.svg" width="40px" height="40px"></td>
             <td>IBM React</td>
             <td><a href="https://coursera.org/verify/B03UVL36QAMD">Coursera</a></td>
             <td> <img src="images/certs/reactjs.png" alt="images/certs/reactjs.png" width="100"/> </td>
