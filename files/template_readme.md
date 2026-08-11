@@ -1,5 +1,4 @@
-## Hello
-## I'm Mevrick Duran, I'm currently using github as a placeholder for the certificates I've gathered
+## I'm currently using github as a placeholder for the useless certificates I've gathered
 
 ## Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
@@ -17,6 +16,7 @@
 
 * I'm not looking for collaboration/partnership/job
 * I collect certificates for the joy of it
+* email: gh-mev@mevpd.com
 <!-- 
 * July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)
 * July 18 2026 - [Cisco CyberOps IT Step](https://itstep.ph/cybersecurity)
