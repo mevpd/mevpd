@@ -46,4 +46,10 @@
             <td>IBM NodeJS</td>
             <td><a href="https://coursera.org/verify/6W6J13JSMM8V">Coursera</a></td>
             <td> <img src="images/certs/nodejs.png" alt="images/certs/nodejs.png" width="100"/> </td>
+        </tr><tr>
+            <td>Aug 12 2026</td>
+            <td><img src="images/logo/python.svg" alt="images/logo/python.svg" width="40px" height="40px"></td>
+            <td>IBM Python Data Science</td>
+            <td><a href="https://coursera.org/verify/UHWWYTMND54M">Coursera</a></td>
+            <td> <img src="images/certs/python_data.png" alt="images/certs/python_data.png" width="100"/> </td>
         </tr>
