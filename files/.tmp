@@ -52,4 +52,10 @@
             <td>IBM Python Data Science</td>
             <td><a href="https://coursera.org/verify/UHWWYTMND54M">Coursera</a></td>
             <td> <img src="images/certs/python_data.png" alt="images/certs/python_data.png" width="100"/> </td>
+        </tr><tr>
+            <td>Aug 20 2026</td>
+            <td><img src="images/logo/flask.svg" alt="images/logo/flask.svg" width="40px" height="40px"></td>
+            <td>IBM Flask</td>
+            <td><a href="https://coursera.org/verify/ESCHQMZY8MN5">Coursera</a></td>
+            <td> <img src="images/certs/flask.png" alt="images/certs/flask.png" width="100"/> </td>
         </tr>
