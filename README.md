@@ -69,6 +69,12 @@
             <td>IBM Flask</td>
             <td><a href="https://coursera.org/verify/ESCHQMZY8MN5">Coursera</a></td>
             <td> <img src="images/certs/flask.png" alt="images/certs/flask.png" width="100"/> </td>
+        </tr><tr>
+            <td>Aug 21 2026</td>
+            <td><img src="images/logo/django.svg" alt="images/logo/django.svg" width="40px" height="40px"></td>
+            <td>IBM Django</td>
+            <td><a href="https://coursera.org/verify/ZQSJ5XAVDZCY">Coursera</a></td>
+            <td> <img src="images/certs/django.png" alt="images/certs/django.png" width="100"/> </td>
         </tr></table>
 
 ### More Info
