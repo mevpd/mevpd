@@ -75,6 +75,12 @@
             <td>IBM Django</td>
             <td><a href="https://coursera.org/verify/ZQSJ5XAVDZCY">Coursera</a></td>
             <td> <img src="images/certs/django.png" alt="images/certs/django.png" width="100"/> </td>
+        </tr><tr>
+            <td>Aug 21 2026</td>
+            <td><img src="images/logo/docker.svg" alt="images/logo/docker.svg" width="40px" height="40px"></td>
+            <td>IBM Docker/Kubernetes</td>
+            <td><a href="https://coursera.org/verify/E6MG4M86DXXI">Coursera</a></td>
+            <td> <img src="images/certs/container.png" alt="images/certs/container.png" width="100"/> </td>
         </tr></table>
 
 ### More Info
