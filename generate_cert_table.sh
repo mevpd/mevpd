@@ -25,6 +25,10 @@ main(){
     grep -B 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | head -n -1 | tee "$script_path/README.md"
     tee -a "$script_path/README.md" < "$script_path/files/.tmp"
     grep -A 1000 REPLACE_THIS_WITH_THE_TABLE_DATA "$script_path/files/template_readme.md" | tail -n +2 | tee -a "$script_path/README.md"
+
+    certs_count=$(grep images/certs $script_path/files/certs.csv | wc -l)
+    sed -i "s/REPLACE_THIS_WITH_CERTS_COUNT/$certs_count/g" $script_path/README.md
+
     pandoc -f gfm "$script_path/README.md" -t html5 -o "$script_path/index.html" --standalone --metadata title="readme"
 }
 

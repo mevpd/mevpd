@@ -15,7 +15,7 @@
 ### More Info
 
 * I'm not looking for collaboration/partnership/job
-* I collect certificates for the joy of it
+* I collect certificates for the joy of it (REPLACE_THIS_WITH_CERTS_COUNT certs so far)
 * email: gh-mev@mevpd.com
 <!-- 
 * July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)
