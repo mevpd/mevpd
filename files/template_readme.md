@@ -1,6 +1,6 @@
 ## I'm currently using github as a placeholder for the useless certificates I've gathered
 
-## Useless Certificates
+## REPLACE_THIS_WITH_CERTS_COUNT Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
     <tr>
         <th>Date</th>

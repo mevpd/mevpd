@@ -1,6 +1,6 @@
 ## I'm currently using github as a placeholder for the useless certificates I've gathered
 
-## Useless Certificates
+## 12 Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
     <tr>
         <th>Date</th>
