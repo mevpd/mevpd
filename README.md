@@ -1,6 +1,6 @@
 ## I'm currently using github as a placeholder for the useless certificates I've gathered
 
-## 12 Useless Certificates
+## 13 Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
     <tr>
         <th>Date</th>
@@ -81,12 +81,18 @@
             <td>IBM Docker/Kubernetes</td>
             <td><a href="https://coursera.org/verify/E6MG4M86DXXI">Coursera</a></td>
             <td> <img src="images/certs/container.png" alt="images/certs/container.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 04 2026</td>
+            <td><img src="images/logo/serverless.svg" alt="images/logo/serverless.svg" width="40px" height="40px"></td>
+            <td>IBM microservices/serverless</td>
+            <td><a href="https://coursera.org/verify/SCHNK90G7YYU">Coursera</a></td>
+            <td> <img src="images/certs/serverless.png" alt="images/certs/serverless.png" width="100"/> </td>
         </tr></table>
 
 ### More Info
 
 * I'm not looking for collaboration/partnership/job
-* I collect certificates for the joy of it (12 certs so far)
+* I collect certificates for the joy of it (13 certs so far)
 * email: gh-mev@mevpd.com
 <!-- 
 * July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)
