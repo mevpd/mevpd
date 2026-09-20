@@ -1,6 +1,6 @@
 ## I'm currently using github as a placeholder for the useless certificates I've gathered
 
-## 13 Useless Certificates
+## 14 Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
     <tr>
         <th>Date</th>
@@ -87,12 +87,18 @@
             <td>IBM microservices/serverless</td>
             <td><a href="https://coursera.org/verify/SCHNK90G7YYU">Coursera</a></td>
             <td> <img src="images/certs/serverless.png" alt="images/certs/serverless.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 20 2026</td>
+            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
+            <td>IBM Capstone</td>
+            <td><a href="https://coursera.org/verify/YVE7W12Q1KFT">Coursera</a></td>
+            <td> <img src="images/certs/capstone.png" alt="images/certs/capstone.png" width="100"/> </td>
         </tr></table>
 
 ### More Info
-
+* Credly: [Badges](https://www.credly.com/users/mevrick-duran/edit/badges/credly) | [Skills](https://www.credly.com/users/mevrick-duran/edit/skills)
 * I'm not looking for collaboration/partnership/job
-* I collect certificates for the joy of it (13 certs so far)
+* I collect certificates for the joy of it (14 certs so far)
 * email: gh-mev@mevpd.com
 <!-- 
 * July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)

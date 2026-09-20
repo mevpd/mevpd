@@ -13,7 +13,7 @@
 </table>
 
 ### More Info
-
+* Credly: [Badges](https://www.credly.com/users/mevrick-duran/edit/badges/credly) | [Skills](https://www.credly.com/users/mevrick-duran/edit/skills)
 * I'm not looking for collaboration/partnership/job
 * I collect certificates for the joy of it (REPLACE_THIS_WITH_CERTS_COUNT certs so far)
 * email: gh-mev@mevpd.com
