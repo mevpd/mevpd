@@ -12,12 +12,6 @@
 <tr>
             <td>Sep 21 2026</td>
             <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
-            <td>MAPUA Fullstack Software Developer Professional Certificate</td>
-            <td><a href="https://coursera.org/verify/GB56QLFNGBZU">Coursera</a></td>
-            <td> <img src="images/certs/mapua_fssd.png" alt="images/certs/mapua_fssd.png" width="100"/> </td>
-        </tr><tr>
-            <td>Sep 21 2026</td>
-            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
             <td>IBM Fullstack Software Developer Professional Certificate</td>
             <td><a href="https://coursera.org/verify/professional-cert/1OOJP2Z0656Z">Coursera</a></td>
             <td> <img src="images/certs/ibm_fssd.png" alt="images/certs/ibm_fssd.png" width="100"/> </td>
@@ -117,6 +111,12 @@
             <td>IBM Generative AI</td>
             <td><a href="https://coursera.org/verify/Z71VJYUVOZCR">Coursera</a></td>
             <td> <img src="images/certs/ai.png" alt="images/certs/ai.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 21 2026</td>
+            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
+            <td>MAPUA Fullstack Software Developer Professional Certificate</td>
+            <td><a href="https://coursera.org/verify/GB56QLFNGBZU">Coursera</a></td>
+            <td> <img src="images/certs/mapua_fssd.png" alt="images/certs/mapua_fssd.png" width="100"/> </td>
         </tr></table>
 
 ### More Info
