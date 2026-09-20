@@ -1,6 +1,6 @@
 ## I'm currently using github as a placeholder for the useless certificates I've gathered
 
-## 16 Useless Certificates
+## 18 Useless Certificates
 <table style="border: 1px solid black; padding: 8px;">
     <tr>
         <th>Date</th>
@@ -10,6 +10,18 @@
         <th>Certificate</th>
     </tr>
 <tr>
+            <td>Sep 21 2026</td>
+            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
+            <td>MAPUA Fullstack Software Developer Professional Certificate</td>
+            <td><a href="https://coursera.org/verify/GB56QLFNGBZU">Coursera</a></td>
+            <td> <img src="images/certs/mapua_fssd.png" alt="images/certs/mapua_fssd.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 21 2026</td>
+            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
+            <td>IBM Fullstack Software Developer Professional Certificate</td>
+            <td><a href="https://coursera.org/verify/professional-cert/1OOJP2Z0656Z">Coursera</a></td>
+            <td> <img src="images/certs/ibm_fssd.png" alt="images/certs/ibm_fssd.png" width="100"/> </td>
+        </tr><tr>
             <td>Jun 27 2023</td>
             <td><img src="images/logo/java.svg" alt="images/logo/java.svg" width="40px" height="40px"></td>
             <td>Java Intermediate</td>
@@ -89,7 +101,7 @@
             <td> <img src="images/certs/serverless.png" alt="images/certs/serverless.png" width="100"/> </td>
         </tr><tr>
             <td>Sep 20 2026</td>
-            <td><img src="images/logo/capstone.svg" alt="images/logo/capstone.svg" width="40px" height="40px"></td>
+            <td><img src="images/logo/fs.svg" alt="images/logo/fs.svg" width="40px" height="40px"></td>
             <td>IBM Capstone</td>
             <td><a href="https://coursera.org/verify/YVE7W12Q1KFT">Coursera</a></td>
             <td> <img src="images/certs/capstone.png" alt="images/certs/capstone.png" width="100"/> </td>
@@ -110,7 +122,7 @@
 ### More Info
 * Credly: [Badges](https://www.credly.com/users/mevrick-duran/edit/badges/credly) | [Skills](https://www.credly.com/users/mevrick-duran/edit/skills)
 * I'm not looking for collaboration/partnership/job
-* I collect certificates for the joy of it (16 certs so far)
+* I collect certificates for the joy of it (18 certs so far)
 * email: gh-mev@mevpd.com
 <!-- 
 * July 16 2026 - [IBM Fullstack Dev Mapua](https://www.mmdc.mcl.edu.ph/certification-programs/ibm-full-stack-software-developer/)
