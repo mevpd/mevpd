@@ -82,4 +82,10 @@
             <td>IBM Capstone</td>
             <td><a href="https://coursera.org/verify/YVE7W12Q1KFT">Coursera</a></td>
             <td> <img src="images/certs/capstone.png" alt="images/certs/capstone.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 20 2026</td>
+            <td><img src="images/logo/exam.svg" alt="images/logo/exam.svg" width="40px" height="40px"></td>
+            <td>IBM FSSD Assesment</td>
+            <td><a href="https://coursera.org/verify/H6XUBZJZYK5R">Coursera</a></td>
+            <td> <img src="images/certs/fssd_ass.png" alt="images/certs/fssd_ass.png" width="100"/> </td>
         </tr>
