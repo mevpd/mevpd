@@ -88,4 +88,10 @@
             <td>IBM FSSD Assesment</td>
             <td><a href="https://coursera.org/verify/H6XUBZJZYK5R">Coursera</a></td>
             <td> <img src="images/certs/fssd_ass.png" alt="images/certs/fssd_ass.png" width="100"/> </td>
+        </tr><tr>
+            <td>Sep 21 2026</td>
+            <td><img src="images/logo/ai.svg" alt="images/logo/ai.svg" width="40px" height="40px"></td>
+            <td>IBM Generative AI</td>
+            <td><a href="https://coursera.org/verify/Z71VJYUVOZCR">Coursera</a></td>
+            <td> <img src="images/certs/ai.png" alt="images/certs/ai.png" width="100"/> </td>
         </tr>
